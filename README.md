@@ -34,14 +34,14 @@
 -Learn from prediction accuracy to continuously improve models
 
 
-5. Fairness Monitoring Agent
+5. Fairness Monitoring Agent (FMA)
 
 -Ensure equitable distribution of wait times across neighborhoods
 -Monitor for and correct bias in route recommendations
 -Track accessibility metrics for pedestrians and public transportation
 -Generate fairness reports for transparency and accountability
 
-6. Lane Monitoring Agent
+6. Lane Monitoring Agent (LMA)
 
 -Oversees any slow moving vehicle and predicts any forthcoming traffic delays
 -Monitor for unusual driver activity
